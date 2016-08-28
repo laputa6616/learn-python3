@@ -4,3 +4,6 @@
 import sys
 print(sys.getdefaultencoding())
 print('~~ 中文正常显示~~')
+
+print('Welcome to the world of python!')
+
