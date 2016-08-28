@@ -1,0 +1,3 @@
+# learn-python3
+
+This is just a note for my learning python3...
