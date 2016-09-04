@@ -3,12 +3,14 @@
 
 1 字典(dict)：使用 键-值(key-value)对 储存，但是不区分「存放顺序」
 
-	1.1 字典的创建和访问
+	1.1 字典的创建和访问(或添加)
 
 		e.g.
 		dic = {'Michael': 95, 'Bob': 75, 'Tracy': 85}
 
-		dic[key_name]
+		dic[key_name]				//访问
+
+		dic[new_key] = value 		//添加新值
 
 		注意：
 		(1) 一个 key 只能对应一个 value，多次对一个 key 存放 value，后面的值会把前面的值冲掉；
